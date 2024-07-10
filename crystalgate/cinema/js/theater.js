@@ -66,6 +66,7 @@ var theater = {
 
 	loadVideo: function( type, data, startTime ) {
 
+
 		if ( ( type === null ) || ( data === null ) ) return;
 		
 		if ( type === "" ) {
@@ -271,6 +272,7 @@ function registerPlayer( type, object ) {
 			this.lastStartTime = null;
 			this.lastVideoId = null;
 			this.videoId = id;
+
 
 			if (player) { return; }
 
@@ -1167,6 +1169,91 @@ function registerPlayer( type, object ) {
 
 	};
 	registerPlayer( "viooz", VioozVideo );
+
+    var VkVideo = function() {
+        this.player = null;
+        this.lastVideoId = null;
+        this.videoId = null;
+        this.volume = 0.25; // Default volume (0-1)
+        this.startTime = 0;
+
+        this.embed = function() {
+            var elem = document.getElementById("player1");
+            if (elem) {
+                elem.parentNode.removeChild(elem);
+            }
+
+            var url = new URL('https://vk.com/video_ext.php');
+            var [ownerId, videoId] = this.videoId.split('_');
+
+            url.searchParams.set('oid', ownerId);
+            url.searchParams.set('id', videoId);
+			url.searchParams.set('js_api', '1');
+            url.searchParams.set('autoplay', '1'); // Autoplay on load
+
+            var iframe = document.createElement('iframe');
+            iframe.id = 'player1';
+            iframe.src = url.toString();
+            iframe.width = '100%';
+            iframe.height = '100%';
+            iframe.allow = 'autoplay; fullscreen';
+            iframe.allowFullscreen = '';
+
+            this.iframe = iframe;
+
+            document.getElementById('player').appendChild(iframe);
+			this.player = VK.VideoPlayer(iframe);
+        };
+
+        this.setVideo = function(id) {
+            if (id === this.lastVideoId) {
+                return; // No need to reload if the video is the same
+            }
+
+            this.lastVideoId = this.videoId;
+            this.videoId = id;
+
+            if (!this.player) {
+                this.embed();
+            } else {
+                this.player.loadVideoById(this.videoId, this.startTime);
+            }
+        };
+
+        this.setVolume = function(volume) {
+            this.volume = volume / 100;
+            if (this.player) {
+                this.player.setVolume(this.volume);
+            }
+        };
+
+        this.setStartTime = function(seconds) {
+            this.startTime = seconds;
+            if (this.player) {
+                this.player.seekTo(seconds);
+            }
+        };
+
+        this.seek = function(seconds) {
+            if (this.player) {
+                this.player.seek(seconds);
+            }
+        };
+
+        this.getCurrentTime = function() {
+            return this.player ? this.player.getCurrentTime() : null;
+        };
+
+        this.onRemove = function() {
+            window.removeEventListener('message', this.onMessage.bind(this));
+            this.player = null;
+        };
+	
+		this.toggleControls = function(enabled) {
+			this.player.height = enabled ? "100%" : "105%";
+		};
+	};
+	registerPlayer( "vk", VkVideo )
 
 })();
 
