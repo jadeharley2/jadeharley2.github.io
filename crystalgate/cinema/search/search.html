@@ -42,6 +42,7 @@
 
 				<service class="subtext" style="background-image:url(logos/reddit.png);" onclick="selectService('Reddit/fullmoviesonyoutube','http://www.reddit.com/r/fullmoviesonyoutube/');" onmouseover="hoverService();">FullMoviesOnYouTube</service>
 
+				<service class="subtext" style="background-image:url(logos/vkontakte.png);" onclick="selectService('vk','https://vk.com/video');" onmouseover="hoverService();">VK</service>
 			</div>
 
 			<div id="tip" class="notice"></div>
@@ -52,12 +53,12 @@
 	<script type="text/javascript">
 	// Event called when a service is hovered
 	function hoverService() {
-		console.log( "RUNLUA: surface.PlaySound('garrysmod/ui_hover.wav');" );
+		game.PlaySound('garrysmod/ui_hover.wav');
 	}
 
 	// Event called when a service is selected
 	function selectService(name, url) {
-		console.log( "RUNLUA: surface.PlaySound('garrysmod/ui_click.wav');" );
+		game.PlaySound('garrysmod/ui_click.wav');
 
 		ga('send', 'event', 'services', 'visit', name);
 		setTimeout(function(){
@@ -81,18 +82,6 @@
 		};
 	}());
 	</script>
-
-	<script type="text/javascript">
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-25136174-5', 'pixeltailgames.com');
-	  ga('send', 'pageview');
-	</script>
-
-	<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
 
 </body>
 </html>
