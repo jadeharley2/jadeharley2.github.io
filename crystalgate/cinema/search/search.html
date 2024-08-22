@@ -53,14 +53,14 @@
 	<script type="text/javascript">
 	// Event called when a service is hovered
 	function hoverService() {
-		game.PlaySound('garrysmod/ui_hover.wav');
+		if(game) game.PlaySound('garrysmod/ui_hover.wav');
 	}
 
 	// Event called when a service is selected
 	function selectService(name, url) {
-		game.PlaySound('garrysmod/ui_click.wav');
+		if(game) game.PlaySound('garrysmod/ui_click.wav');
 
-		ga('send', 'event', 'services', 'visit', name);
+		//ga('send', 'event', 'services', 'visit', name);
 		setTimeout(function(){
 			window.location.href = url;
 		}, 100);
