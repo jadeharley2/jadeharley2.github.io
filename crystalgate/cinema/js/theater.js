@@ -731,7 +731,7 @@ function registerPlayer( type, object ) {
 		};
 
 	};
-	registerPlayer( "twitchstream", TwitchStreamVideo );
+	//registerPlayer( "twitchstream", TwitchStreamVideo );
 
 	var BlipVideo = function() {
 
@@ -971,6 +971,7 @@ function registerPlayer( type, object ) {
 
 	};
 	registerPlayer( "url", UrlVideo );
+	registerPlayer( "twitchstream", UrlVideo );
 
 	// Thanks to WinterPhoenix96 for helping with Livestream support
 	var LivestreamVideo = function() {
