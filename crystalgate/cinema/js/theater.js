@@ -620,6 +620,93 @@ function registerPlayer( type, object ) {
 	};
 	registerPlayer( "twitch", TwitchVideo );
 
+	var TwitchStream2 = function(){
+		
+		var self = this; 
+		this.embed = function() {
+			player = new Twitch.Embed("player", { 
+				channel: this.videoId,
+				layout: "video", 
+				// Only needed if this page is going to be embedded on other websites
+				parent: ["jadeharley2.github.io"]
+			});
+
+
+			player.addEventListener(Twitch.Embed.VIDEO_READY, () => {
+				var playerc = player.getPlayer();
+				playerc.play();
+				var frame = player._target.firstChild;
+				frame.setAttribute('width', '100%');
+				frame.setAttribute('height', '100%');
+				frame.setAttribute('frameborder', '0');
+			});
+		};
+		this.setVideo = function( id ) {
+			this.lastVideoId = null;
+			this.videoId = id;
+
+			// Wait for player to be ready
+			if ( this.player === null ) {
+				this.lastVideoId = this.videoId;
+				this.embed();
+
+				var i = 0;
+				var interval = setInterval( function() {
+					var el = document.getElementById("player");
+					if(el.mute){
+						clearInterval(interval);
+						self.onReady();
+					}
+
+					i++;
+					if (i > 100) {
+						console.log("Error waiting for player to load");
+						clearInterval(interval);
+					}
+				}, 33);
+			}
+		};
+
+		this.setVolume = function( volume ) {
+			this.lastVolume = null;
+			this.volume = volume;
+		};
+
+		this.onRemove = function() {
+			clearInterval( this.interval );
+		};
+
+		/*
+			Player Specific Methods
+		*/
+		this.think = function() {
+
+			if ( this.player ) {
+
+				if ( this.videoId != this.lastVideoId ) {
+					this.embed();
+					this.lastVideoId = this.videoId;
+				}
+
+				 if ( this.volume != this.lastVolume ) {
+					// this.embed(); // volume doesn't change...
+					this.lastVolume = this.volume;
+				}
+
+			}
+
+		};
+
+		this.onReady = function() {
+			this.player = document.getElementById('player');
+			this.interval = setInterval( function() { self.think(self); }, 100 );
+		};
+
+		this.toggleControls = function( enabled ) {
+			this.player.height = enabled ? "100%" : "104%";
+		};
+
+	};
 	var TwitchStreamVideo = function() {
 
 		var self = this;
@@ -731,7 +818,7 @@ function registerPlayer( type, object ) {
 		};
 
 	};
-	//registerPlayer( "twitchstream", TwitchStreamVideo );
+	registerPlayer( "twitchstream", TwitchStream2 );
 
 	var BlipVideo = function() {
 
@@ -970,8 +1057,7 @@ function registerPlayer( type, object ) {
 		};
 
 	};
-	registerPlayer( "url", UrlVideo );
-	registerPlayer( "twitchstream", UrlVideo );
+	registerPlayer( "url", UrlVideo ); 
 
 	// Thanks to WinterPhoenix96 for helping with Livestream support
 	var LivestreamVideo = function() {
