@@ -1,6 +1,6 @@
 if (window.swfobject === undefined) window.swfobject = null;
 window.open = function() { return null; }; // prevent popups
-
+//load
 var theater = {
 
 	VERSION: '1.1.7',
@@ -619,7 +619,7 @@ function registerPlayer( type, object ) {
 
 	};
 	registerPlayer( "twitch", TwitchVideo );
-
+  
 	var TwitchStream2 = function(){
 		
 		var self = this; 
