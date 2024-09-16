@@ -155,7 +155,7 @@ var theater = {
 
 	isCCEnabled: function() {
 		return this.closedCaptions;
-	}
+	},
 
 	/*clickPlayerCenter: function() {
 		var evt = document.createEvent("MouseEvents");
@@ -176,6 +176,16 @@ var theater = {
 	}
 	*/
 
+	pause: function() {
+		if ( this.player !== null ) {
+			this.player.pause();
+		}
+	},
+	play: function() {
+		if ( this.player !== null ) {
+			this.player.play();
+		}
+	},
 };
 
 
@@ -208,7 +218,9 @@ DefaultVideo.prototype = {
 	setStartTime: function( seconds ) {},
 	seek: function( seconds ) {},
 	onRemove: function() {},
-	toggleControls: function() {}
+	toggleControls: function() {},
+	pause: function() {},
+	play: function() {},
 };
 
 function registerPlayer( type, object ) {
@@ -371,6 +383,17 @@ function registerPlayer( type, object ) {
 			this.interval = setInterval( this.think.bind(this), 100 );
 		};
 
+		this.pause = function() {
+			if ( this.player !== null ) {
+				this.player.pauseVideo();
+			}
+		}
+
+		this.play = function() {
+			if ( this.player !== null ) {
+				this.player.playVideo();
+			}
+		}
 	};
 	registerPlayer( "youtube", YouTubeVideo );
 	registerPlayer( "youtubelive", YouTubeVideo );
@@ -581,6 +604,17 @@ function registerPlayer( type, object ) {
 		this.onRemove = function() {
 			clearInterval( this.interval );
 		};
+		this.pause = function() {
+			if ( this.player !== null ) {
+				this.player.pause();
+			}
+		};
+		this.play = function() {
+			if ( this.player !== null ) {
+				this.player.play();
+			}
+		};
+
 
 		/*
 			Player Specific Methods
@@ -705,6 +739,17 @@ function registerPlayer( type, object ) {
 		this.toggleControls = function( enabled ) {
 			this.player.height = enabled ? "100%" : "104%";
 		};
+		this.pause = function() {
+			if ( this.player !== null ) {
+				this.player.pause();
+			}
+		};
+		this.play = function() {
+			if ( this.player !== null ) {
+				this.player.play();
+			}
+		};
+
 
 	};
 	var TwitchStreamVideo = function() {
@@ -1339,6 +1384,18 @@ function registerPlayer( type, object ) {
 		this.toggleControls = function(enabled) {
 			this.player.height = enabled ? "100%" : "105%";
 		};
+		
+		this.pause = function() {
+			if (this.player) {
+				this.player.pause();
+			}
+		}
+
+		this.play = function() {
+			if (this.player) {
+				this.player.play();
+			}
+		}
 	};
 	registerPlayer( "vk", VkVideo )
 
