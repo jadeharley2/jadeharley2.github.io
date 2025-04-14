@@ -1,74 +1,74 @@
 {
-    "files":[
+    "files": [
         {
-            "path":"data/data.zip",
-            "timestamp":0,
-            "type":"module"
+            "path": "data/data.zip",
+            "sha256": "b184b8bc8b50ed4e12ecd9f88b0d77ab3b5777576d61398ab064ef2fa66fe115",
+            "type": "module"
         },
         {
-            "path":"data/materials.zip",
-            "timestamp":0,
-            "type":"module"
+            "path": "data/materials.zip",
+            "sha256": "f4ce79861ffd2f23c0d4e6ed4264ea1e9fb90552d76ae1d4b56823129b5b5abc",
+            "type": "module"
         },
         {
-            "path":"data/misc.zip",
-            "timestamp":0,
-            "type":"module"
+            "path": "data/misc.zip",
+            "sha256": "37c188f423e17a0d9d1d730e3b0770d7287b8d7f2451bb29e749704c13a066db",
+            "type": "module"
         },
         {
-            "path":"data/models.zip",
-            "timestamp":0,
-            "type":"module"
+            "path": "data/models.zip",
+            "sha256": "c918b8eef09dc5aab448ff3586d3a2092e62d4131f68f4e8a6c541f93097cd3e",
+            "type": "module"
         },
         {
-            "path":"data/scenes.zip",
-            "timestamp":0,
-            "type":"module"
+            "path": "data/scenes.zip",
+            "sha256": "523077cee77e8545ace3cf9274286b74a8a6f44a0678c9543988a931e79bad85",
+            "type": "module"
         },
         {
-            "path":"data/sounds.zip",
-            "timestamp":0,
-            "type":"module"
+            "path": "data/sounds.zip",
+            "sha256": "f117b071be437961d7269f316bd00bda3f3862336cd68184ef787569a8712ffa",
+            "type": "module"
         },
         {
-            "path":"bin/CST.exe",
-            "timestamp":0,
-            "type":"bin"
+            "path": "bin/CST.exe",
+            "sha256": "66b9216ef9fb127f33a357f048ad2f32e10b5311266a0b04925ef5780f760b9e",
+            "type": "bin"
         },
         {
-            "path":"bin/CST.pck",
-            "timestamp":0,
-            "type":"bin"
+            "path": "bin/CST.pck",
+            "sha256": "e8ef30a60454318aaac033f3467bb1856b3101704255e2830e2ca201b13df5b7",
+            "type": "bin"
         },
         {
-            "path":"bin/libdd3d.windows.editor.x86_64.dll",
-            "timestamp":0,
-            "type":"bin"
+            "path": "bin/libdd3d.windows.editor.x86_64.dll",
+            "sha256": "08a8c5dce66c2e3c8f7fb6c81c3574bf2da6ecbaef16159b847982c92dacc2c6",
+            "type": "bin"
         },
         {
-            "path":"bin/libgodotsteam.windows.template_debug.x86_64.dll",
-            "timestamp":0,
-            "type":"bin"
+            "path": "bin/libgodotsteam.windows.template_debug.x86_64.dll",
+            "sha256": "04b9be4fea4dc4f40626c3de422ecc25167eb7a8af838e9a571dabf76e945c9b",
+            "type": "bin"
         },
         {
-            "path":"bin/libluaapi.windows.template_debug.x86_64.dll",
-            "timestamp":0,
-            "type":"bin"
+            "path": "bin/libluaapi.windows.template_debug.x86_64.dll",
+            "sha256": "efe8f399adb4e62ae7e77712cf9dade3f9ece97ac71ab61e6661f0663014bb70",
+            "type": "bin"
         },
         {
-            "path":"bin/libtrailmesh.windows.debug.x86_64.dll",
-            "timestamp":0,
-            "type":"bin"
+            "path": "bin/libtrailmesh.windows.debug.x86_64.dll",
+            "sha256": "6f9293f58bd8d95075c00e1042e927801416caa19be759b84271d7904edc5542",
+            "type": "bin"
         },
         {
-            "path":"bin/steam_api64.dll",
-            "timestamp":0,
-            "type":"bin"
+            "path": "bin/steam_api64.dll",
+            "sha256": "1add7f151fa644870a735ae86e68d1f019f296130d8e7c0a7ed3ecc7482dccbc",
+            "type": "bin"
         },
         {
-            "path":"bin/voxellib.windows.template_debug.x86_64.dll",
-            "timestamp":0,
-            "type":"bin"
+            "path": "bin/voxellib.windows.template_debug.x86_64.dll",
+            "sha256": "030704f4d3c72fb7b1ee4ece8ef949d41b52709e3bf6031c3e25d0a4b7f1ba3d",
+            "type": "bin"
         }
     ]
-}   
+}
