@@ -2,7 +2,7 @@
     "files": [
         {
             "path": "data/data.zip",
-            "sha256": "ad6b23d72af529a8bff084aeb5d62eb2190ca4fc2aa0096aa58f5d8e745cb4ab",
+            "sha256": "8d7abf58d83db1ac9235dfcd0b1d35d9ab1673588c0be250391515f432a6b9d1",
             "type": "module"
         },
         {
@@ -22,7 +22,7 @@
         },
         {
             "path": "data/scenes.zip",
-            "sha256": "523077cee77e8545ace3cf9274286b74a8a6f44a0678c9543988a931e79bad85",
+            "sha256": "e7c1a7a26aafc3abda5c39b2d523b8a6be411004ede3bd8d17f3e3fad5093c32",
             "type": "module"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "c7592541e88d6612fc5077a01e985bd6775dd2d4d3c9e7f3306f773294bb198d",
+            "sha256": "3c05466122878ce5b6ef29b84083364df24feafc34fad4a708c7ccdbfba082dd",
             "type": "bin"
         },
         {
