@@ -2,7 +2,7 @@
     "files": [
         {
             "path": "data/data.zip",
-            "sha256": "9bcfa9de0a5cc8841dd950b7ad851d2a72c200d9a34e466ad36296ec850a1d87",
+            "sha256": "19414083350c28b77ba8168ef1bda3e4caafc06d1e231fef527e63023d90ffd5",
             "type": "module"
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "8fad6b69a527efe607ad9d8bd4565180a3b55e835814e29707e8105f2a9e2bd9",
+            "sha256": "4b45c62f404e9f64fa4f575dc1647d7925ee008f58a06c656456a3ede7d1b045",
             "type": "bin"
         },
         {
