@@ -17,12 +17,12 @@
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "71144e36637d77e03b5ea25667fee90549b9f09c03f385a00d20572ceb7134ca",
+            "sha256": "670de8894a42db9a705e38b481a61f365763cd5d01d4db13b05b6b08654731ea",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "b63222eeb43e206da7c94be8cb6912deec9c400812636ca4785f3d206631b878",
+            "sha256": "35d013bae1b0e979db31653b6bb2c74b3b8f9ff5338da6395691ecd10cc3869c",
             "type": "module"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "8386db787c8cd886783e6b181377e7b1702a0a3e70ee00bb023869d1f323de71",
+            "sha256": "6caa33ecd73cccdcc547ac490fdb722528aee5c181dca09913658ec0c44a4c36",
             "type": "bin"
         },
         {
