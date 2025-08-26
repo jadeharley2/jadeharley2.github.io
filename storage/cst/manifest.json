@@ -1,6 +1,6 @@
 {
     "files": [
-        {
+        { 
             "path": "data/core.data.zip",
             "sha256": "5a313f11463755fb82c4499656479f99b512568087a0a3d686ef9e7ccf0ef160",
             "type": "module"
