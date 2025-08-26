@@ -1,8 +1,8 @@
 {
     "files": [
-        { 
+        {
             "path": "data/core.data.zip",
-            "sha256": "5a313f11463755fb82c4499656479f99b512568087a0a3d686ef9e7ccf0ef160",
+            "sha256": "5e71e3862f133de8aa03d68e7b005c84bfe8dc445ab679b74e409396d5e6d540",
             "type": "module"
         },
         {
@@ -22,7 +22,7 @@
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "10ca6955b4def36e12ef88dfe7f708a78f0b5a94da6a65557a2b78bc9e90a668",
+            "sha256": "a9b444d3d58da3a351592306e6b77f4309b8e588d82c20f7042170482cb1680c",
             "type": "module"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "240d6175cf9539231d3dcdfb98d5d13775401dec3616a2f50ba0b831e5e42f8e",
+            "sha256": "e87eed1cfb726554aa83a8dec0a8f9b4cbb0fdbaa789810fb40a9cc040a49c70",
             "type": "bin"
         },
         {
