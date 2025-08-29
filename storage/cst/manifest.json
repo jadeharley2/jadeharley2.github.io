@@ -22,7 +22,7 @@
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "6ee981887d5e92d14e8c64e30682c6b715f7a239c400af26a847b7d9b45a9328",
+            "sha256": "a96c1936ec81479c0156c3f35d2330a14dedbd4e4d83b0ccd0f83539c9166c23",
             "type": "module"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "d80a1367ba17f076cce658418d8e897aef355ebc5ab189549b8f6b38875cc54a",
+            "sha256": "bbb6610222a8c028f72ed04ab9771051df283d707d92688dbba74b4af2d7480a",
             "type": "bin"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "c4a18ee260e5af63b8074a2f0afa229c774cee382c52468452caa900214504f7",
+            "sha256": "6394e120bba19cb188dc753809a7283a24ae6041c83f15fc3f05d4068e0d726d",
             "type": "bin"
         }
     ]
