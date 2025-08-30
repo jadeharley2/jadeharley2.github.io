@@ -42,7 +42,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "be37fe4dca930683288578ceef595c2993a0c561aa6bce619fec6e6cd9dc018a",
+            "sha256": "133c3cf9486e14e964cf43892759acb97c9bb68b1dd381be0808dc341995204a",
             "type": "bin"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "6394e120bba19cb188dc753809a7283a24ae6041c83f15fc3f05d4068e0d726d",
+            "sha256": "79e6513ed0ff11d39e51b845dc390f81d706a670126278f7ddb34d98363261e8",
             "type": "bin"
         }
     ]
