@@ -37,12 +37,12 @@
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "b493c1d53fb915f7805f360cfe42d1c3126e720dfc234a4b0f2feb99200f9a4b",
+            "sha256": "66b9216ef9fb127f33a357f048ad2f32e10b5311266a0b04925ef5780f760b9e",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "37c606d30b3d5d4f4c6359cd059c2bcce60d1f7f32391967e18cf9010e55bc44",
+            "sha256": "be37fe4dca930683288578ceef595c2993a0c561aa6bce619fec6e6cd9dc018a",
             "type": "bin"
         },
         {
