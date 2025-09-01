@@ -2,32 +2,32 @@
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "9dea399068f033df5a29c7f884b89df9bf6a599ea57e490a0d6973ddee181e77",
+            "sha256": "9ff3bae436865765554498b15de13d5e492f6a1b6924bbcb22cf1831d24b0482",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "20d2450fb2043b6056b7b72ebbde5c823539037a50148ebea9dc6f9f949e92ac",
+            "sha256": "386f70015c29470289f1874594a1ea99b490800a701bc01b0a8f7fd331fda7e4",
             "type": "module"
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "cb732448bd9e47bc3efa2a64bc82c0e46a1c3d7df8261696bdf243f02cc42ddd",
+            "sha256": "48df95b131acd7b742c39ce6e618e3269fdc7423a345f123f06eb4784a6917a6",
             "type": "module"
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "af4cbc11d0d16abebaea6fb11116618ce524fcb10005cd09d7a43e56f1c61904",
+            "sha256": "16e745a9fb98fcce9f539e879188a265511fdfc9f6ec7e608b779566ce5987bc",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "75ee30faedd1c7014c289df239a00bc8e7e11a29075c7e341effe662717b8372",
+            "sha256": "e6bdbc64aa833aada3dc963e0cdb29be2c83de9bb1cbfb244b470daf006bebdf",
             "type": "module"
         },
         {
             "path": "data/core.sounds.zip",
-            "sha256": "fad8a24fc3c62ebcbeeface99f17c901a2dc69b72cf143782231cc5c7a47783a",
+            "sha256": "912275572999d01f0f256f6c465426f43c0a723db0a94f2b6fa6092265b2ab89",
             "type": "module"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "9c3e0416b1a16cfa5b7083aaeb9dcb24ba047831476f67546e6ac38b3b1c12f9",
+            "sha256": "d8f1cdba220a53b77fa5af959b71a5d5b0808091a56d413f2b7f7dc5c994629c",
             "type": "bin"
         },
         {
