@@ -2,27 +2,27 @@
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "9ff3bae436865765554498b15de13d5e492f6a1b6924bbcb22cf1831d24b0482",
+            "sha256": "43f511dfdf882d5495799395ed9263954db4850e753464b2832694261b2a7067",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "386f70015c29470289f1874594a1ea99b490800a701bc01b0a8f7fd331fda7e4",
+            "sha256": "9e1a3c7669264c601e27043826adacc3a879b4e22ab0c18bc810f19f171a5c0f",
             "type": "module"
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "48df95b131acd7b742c39ce6e618e3269fdc7423a345f123f06eb4784a6917a6",
+            "sha256": "0d55e994706da39c5c4e6433394a7d83fcc01c57d9471afea5067913f10cb2fd",
             "type": "module"
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "16e745a9fb98fcce9f539e879188a265511fdfc9f6ec7e608b779566ce5987bc",
+            "sha256": "8e44806e6df6e88282dc42b2ef295cba0b5a11257cb710a8763a47ec2f86afab",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "e6bdbc64aa833aada3dc963e0cdb29be2c83de9bb1cbfb244b470daf006bebdf",
+            "sha256": "6b913bd077f179d2d1d2e9cb0dea031eb29a094ac207fe8ed63701f31f0157e2",
             "type": "module"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "d8f1cdba220a53b77fa5af959b71a5d5b0808091a56d413f2b7f7dc5c994629c",
+            "sha256": "88dc5324c9037dac556d7c197d1f87976fb36e153a3713cfce82d1e1801f61a6",
             "type": "bin"
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "79e6513ed0ff11d39e51b845dc390f81d706a670126278f7ddb34d98363261e8",
+            "sha256": "f0d316be15355fcbc405decd877bdf6b31ebb530d1cb059540cead185e0712f3",
             "type": "bin"
         }
     ]
