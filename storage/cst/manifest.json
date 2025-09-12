@@ -1,9 +1,9 @@
 {
-    "version":"0.1.65",
+    "version":"0.1.68",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "f201f859a20e8da58c98f8ea266c40e9a9d3836e200c0cf877b2f50bfd82c95b",
+            "sha256": "35d3d0adbbc9a8696566224bdcacafca0adfbd24ee87c17166d36bcc66c86445",
             "type": "module"
         },
         {
@@ -28,7 +28,7 @@
         },
         {
             "path": "data/core.sounds.zip",
-            "sha256": "84bbe5cd506f3d59afe3da84a18c5296fbcb81652d9e498ae797110c8eb88274",
+            "sha256": "198d3bf9dba6482c8c022dbe7b71304093a68c9849bd3f26aaf8266851e9cc8f",
             "type": "module"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "c7dc1bed836ce8bd2de979c6f64a6e441a7d1ee01887dbded84cf4ccaea3d8f6",
+            "sha256": "34033a6c292707d86118ce69c26c2b1e90906ac7886406d882534bf19cb06d58",
             "type": "bin"
         },
         {
