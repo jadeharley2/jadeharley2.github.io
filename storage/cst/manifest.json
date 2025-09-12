@@ -1,35 +1,34 @@
 {
-    "version":"0.1.57",
-    "message":"test!",
+    "version":"0.1.64", 
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "43f511dfdf882d5495799395ed9263954db4850e753464b2832694261b2a7067",
+            "sha256": "f201f859a20e8da58c98f8ea266c40e9a9d3836e200c0cf877b2f50bfd82c95b",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "9e1a3c7669264c601e27043826adacc3a879b4e22ab0c18bc810f19f171a5c0f",
+            "sha256": "04134aad34613f5e53c2b05d12b39ce68b1e48b3abda32d72cd45c896a367012",
             "type": "module"
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "0d55e994706da39c5c4e6433394a7d83fcc01c57d9471afea5067913f10cb2fd",
+            "sha256": "0a683d7e9793de5b67cfbacecb818db346d29cc318104c63970d3f67fa724ac7",
             "type": "module"
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "8e44806e6df6e88282dc42b2ef295cba0b5a11257cb710a8763a47ec2f86afab",
+            "sha256": "4dd50cb952d723a084332b77a9e207772efbc6f2ed32b8ad516b1442e6c77e26",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "6b913bd077f179d2d1d2e9cb0dea031eb29a094ac207fe8ed63701f31f0157e2",
+            "sha256": "fbaccc17366618ad74502e794f65ef06e15343bda9d454bfb3280bede0f657cb",
             "type": "module"
         },
         {
             "path": "data/core.sounds.zip",
-            "sha256": "912275572999d01f0f256f6c465426f43c0a723db0a94f2b6fa6092265b2ab89",
+            "sha256": "84bbe5cd506f3d59afe3da84a18c5296fbcb81652d9e498ae797110c8eb88274",
             "type": "module"
         },
         {
@@ -44,7 +43,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "2d1718dd0b02efa2a56d6722abf5e5fe3e2a9763bc64a0c624b4ca9a7ecf136a",
+            "sha256": "71b897f0d7a65b3234092938df1927886d52dae1c339a96c2052ef242c75f069",
             "type": "bin"
         },
         {
