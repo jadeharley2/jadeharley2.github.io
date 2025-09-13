@@ -1,5 +1,5 @@
 {
-    "version":"0.1.72",
+    "version":"0.1.73",
     "files": [
         {
             "path": "data/core.data.zip",
@@ -43,12 +43,12 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "25d3d980ed511a302261794a364297982b0ef82b65b94c5defdc41585269465c",
+            "sha256": "8634369877512164ab4e7bd0ab7fda8479ff1a3c60f98512517012193a781b78",
             "type": "bin"
         },
         {
             "path": "bin/libdd3d.windows.editor.x86_64.dll",
-            "sha256": "08a8c5dce66c2e3c8f7fb6c81c3574bf2da6ecbaef16159b847982c92dacc2c6",
+            "sha256": "3f59a3349bc838fb34ddb45f50828b232733bdc8e35f38cecf1e9a133c90dabf",
             "type": "bin"
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "84d807c01aed1a6d0aa5a117823bb83f349f7278a974ad5b61b6862e61f78a10",
+            "sha256": "f53d6627066f6a730fe32526f681ad094ba9cf7e650ec93d104cb5fbe0327f94",
             "type": "bin"
         }
     ]
