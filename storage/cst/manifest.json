@@ -1,9 +1,9 @@
 {
-    "version":"0.1.102",
+    "version":"0.1.105",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "1539a69a946b20e155f141ca33a61bfefdf8e1e061cdb4da6b8ddc21766d02e2",
+            "sha256": "69a7d44e7129d968c4107730998d4eed328730b16eb7f6b4fbf0cf929fd992af",
             "type": "module"
         },
         {
@@ -23,7 +23,7 @@
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "2c553c241f888d71f98788e2d866e5b676f0468d192f5e4f3abaf91c06be3436",
+            "sha256": "4937b171021eedc2fc7f7f5d6f3217f1da6d892a380a443fbd3d4f0bd8308eb5",
             "type": "module"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "a28757b8c2f9f49500121ab1f66d03c84fcb3325d9c1d1bf170396a8895ca69c",
+            "sha256": "6b2ffbea5a25fa7e1139b02770992c25039380c69a9b78cca60cca4f9c0ebbff",
             "type": "bin"
         },
         {
