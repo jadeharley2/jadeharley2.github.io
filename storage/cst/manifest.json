@@ -1,5 +1,5 @@
 {
-    "version":"0.1.105",
+    "version":"0.1.108",
     "files": [
         {
             "path": "data/core.data.zip",
@@ -23,7 +23,7 @@
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "4937b171021eedc2fc7f7f5d6f3217f1da6d892a380a443fbd3d4f0bd8308eb5",
+            "sha256": "0096d9872acdc537065e63e2bc726cba9934af0ba63357c4caf15591d8bcd926",
             "type": "module"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "6b2ffbea5a25fa7e1139b02770992c25039380c69a9b78cca60cca4f9c0ebbff",
+            "sha256": "1cc293110e9d50ef62d29428c7ad98c1c9e565844defa61772ec7fdd2a28d819",
             "type": "bin"
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "f09b51ecb8963a59a891f1d34db1dedcd0628444fde96f579e36094fe9a95ea1",
+            "sha256": "46eacec4bce8ed950cc1c6035a71c57ee1af2cb43ae3c78d4310dea4bea244a4",
             "type": "bin"
         }
     ]
