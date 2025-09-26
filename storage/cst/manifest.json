@@ -62,6 +62,11 @@
             "type": "bin"
         },
         {
+            "path": "bin/libluagdextension.windows.template_debug.x86_64.dll",
+            "sha256": "10f4c1bf10571134163b2ce5c322e8d0dfb61614aeced6c7bc2a3dd5746ede1c",
+            "type": "bin"
+        },
+        {
             "path": "bin/libtrailmesh.windows.debug.x86_64.dll",
             "sha256": "6f9293f58bd8d95075c00e1042e927801416caa19be759b84271d7904edc5542",
             "type": "bin"
