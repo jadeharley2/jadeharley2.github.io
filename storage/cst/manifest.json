@@ -1,5 +1,5 @@
 {
-    "version":"0.1.139",
+    "version":"0.1.140",
     "files": [
         {
             "path": "data/core.data.zip",
@@ -13,7 +13,7 @@
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "66cf122b16232fba6400faefc00347da2e6cc05b61940e0570a08ea4a34e6d1e",
+            "sha256": "7c9851168fd405f332eec6cfa655b53b21e00d2d9921b9099906a93b4b24a222",
             "type": "module"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "85a89dd67d7149fa679f09f0401a864077ada67c3594410bce10296513a0761c",
+            "sha256": "8a637a027a29fd9862a63132c1dd47e6d9ee04359782dd0e0014df0da0592111",
             "type": "bin"
         },
         {
