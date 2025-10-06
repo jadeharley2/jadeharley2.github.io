@@ -1,9 +1,9 @@
 {
-    "version":"0.1.141",
+    "version":"0.1.147",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "d703bb047febbe265751aa975c5314173e24bb4b45570c5f6155085c7dd47f31",
+            "sha256": "50399f22144714dffb62c3e7c7f8fd52c6030d636cd7b28013f2442326b1e557",
             "type": "module"
         },
         {
@@ -13,22 +13,22 @@
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "7c9851168fd405f332eec6cfa655b53b21e00d2d9921b9099906a93b4b24a222",
+            "sha256": "45085b9a63116a1c40145f3ef3e17a6962d808697ee490a2a8fd4071be63b293",
             "type": "module"
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "726f2f7462653cbb720c0067940dc5d7e076b76a073802f72f928cb4ad26b7bf",
+            "sha256": "efbe47cc6e93058cc65c54a7f0ed22b831ca5a3867871ace16bf4bffed58aa23",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "cb407cde5187ebc134118b07780074da71bcdd4f94d6d081c3da09e416e08d39",
+            "sha256": "ec7984f2c5f120d81ba0da26c2f8f3c0115a823f2845fe4954d181be8aa44047",
             "type": "module"
         },
         {
             "path": "data/core.sounds.zip",
-            "sha256": "9374fb78e8327e4e1e8ada895a41c0d0a8cdc53ac10f10e4b8988483f991e247",
+            "sha256": "ea2ccdc91b5f3291428b46f9c473ee9305e2970e2d4e91adf7aa93c53f2ee252",
             "type": "module"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "35777cb46ade4bcb4553650fccc67a59ea666a618b577b4f5b612005d64c2340",
+            "sha256": "52526edadb3235bc2d0d96a1256de80901863dea3be4a656c874a666015af726",
             "type": "bin"
         },
         {
@@ -78,7 +78,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "341828b7e810a84fcbd32abc5db281e8424031de7021d4f7694d18c1f49b5283",
+            "sha256": "2084d94a3ea5a93d703f719797b24616a194c94070c8e80c15b459d4e0b0a0d1",
             "type": "bin"
         }
     ]
