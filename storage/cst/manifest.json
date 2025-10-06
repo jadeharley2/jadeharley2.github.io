@@ -1,5 +1,5 @@
 {
-    "version":"0.1.147",
+    "version":"0.1.148",
     "files": [
         {
             "path": "data/core.data.zip",
@@ -43,7 +43,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "52526edadb3235bc2d0d96a1256de80901863dea3be4a656c874a666015af726",
+            "sha256": "3567595db63e888aac23855f321580ac103880df7fca74c28e5cd0e5efd5b5e0",
             "type": "bin"
         },
         {
