@@ -1,9 +1,9 @@
 {
-    "version":"0.1.167",
+    "version":"0.1.171",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "f437584e6762b9ac90c4a616df6ab6d5aad769262575114cb35af6bb89f64ef8",
+            "sha256": "59862233ee8583f1a01fc0caee6bc153ebf88d89ce039a69d8fee575f875e1cc",
             "type": "module"
         },
         {
@@ -13,7 +13,7 @@
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "5c8d92033279b864cacfc8e7da3569c52b82d280a0d8eef00b1966547fb7a440",
+            "sha256": "29dc28affe932691d0571c22cd76c962749fc132f83adc3c8732ba54b57bbc86",
             "type": "module"
         },
         {
@@ -23,7 +23,7 @@
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "1c80ed989d45665d3ec0321faea4a22e667c042537aab20e00a26c17078c331c",
+            "sha256": "87c32c7eaa8ea14e55f816279ee9388920ec83541d1a8f45f3253b3eea62a10d",
             "type": "module"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "da75e81c3366e6f7a58d4136a37aa8a5fd0ef4d1d3a059969daaa64b11488b7a",
+            "sha256": "f1733e7aa87bd2911f68fd10c1106fc42b8a3e9d84c59894be38c1be0fb3e227",
             "type": "bin"
         },
         {
@@ -78,7 +78,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "a872a612d64b67b2db3d12eb6302cc10467cc67b56e0cb7675864559572ce94d",
+            "sha256": "f1c6f64ed62ee1cf71bbc391162ba4cf3d40b31dd54634d03b83e3b3f368b707",
             "type": "bin"
         }
     ]
