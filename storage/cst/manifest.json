@@ -1,29 +1,29 @@
 {
-    "version":"0.1.174",
+    "version":"0.1.180",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "484f05751fa40223d214a945f4d9c75494934c25c574ac5fa72e6ad49c6a165b",
+            "sha256": "fb65f72151db03661ff92b547e6110a72e99988a1ba80baf9d73580e07dea050",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "36e14c46eea26f68ed9ae0a39c03852abcd3fe7fc5306b558dbde4ca2ba0758a",
+            "sha256": "60a14f80e3ad00fdb57c668173218b80472dbe0d94b8a0a72e4cb7c820bc1374",
             "type": "module"
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "29dc28affe932691d0571c22cd76c962749fc132f83adc3c8732ba54b57bbc86",
+            "sha256": "373b33e3fda9b57f108a64a964289d2353ffe2ef7be6417ada7d90798919bafe",
             "type": "module"
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "a8205c333180116a9162935e1dbd13ba6c5105be3cf072b07b1cb90781fe68ae",
+            "sha256": "a59a313f29c078929cbbb2bd442e5c7e84717b0a816eaa6a6728ae54a545839b",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "525194187364a3177d706382cbb0d624cdafdc6dd13a998cc081e83ea8db9ab2",
+            "sha256": "de6097a39c209817e7abe7311ffdac4c7030d3a0bb3fa9302c6de059f2239929",
             "type": "module"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "0357c9d22a96270e59837ff7e99fec2ba2bc6bbb589a102e9f37a900ba7d06f3",
+            "sha256": "c4284617368fe71fcd3377d5215d348227d582fd15be411d9bdade702e8cd068",
             "type": "bin"
         },
         {
