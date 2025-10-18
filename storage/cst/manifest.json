@@ -1,5 +1,5 @@
 {
-    "version":"0.1.181",
+    "version":"0.1.182",
     "files": [
         {
             "path": "data/core.data.zip",
@@ -43,7 +43,7 @@
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "a8504df230aaa2a10c8545f26c5b78c1ee1150c7ffb159673f4fe6f07e44c0b8",
+            "sha256": "73f6530066d94908e4516bcb049538069698b2d1b6135a2d5f052365ab2dfcea",
             "type": "bin"
         },
         {
@@ -78,7 +78,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "f1c6f64ed62ee1cf71bbc391162ba4cf3d40b31dd54634d03b83e3b3f368b707",
+            "sha256": "bc5e088e4aa9d4b47613818c4edaad0509fb9b2c41b040cb91574066d9b21aef",
             "type": "bin"
         }
     ]
