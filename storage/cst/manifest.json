@@ -1,49 +1,49 @@
 {
-    "version":"0.1.192",
+    "version":"0.1.199",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "8a25887cb3bcc55db3f67869a853eedb54e1ba0b9f107f0e658d05539ad6cec9",
+            "sha256": "06ac628d6a95b718706e15ffb98e87b1ffcf9ac33361f104afec75e5500e1851",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "9e2c06043ad8471f83e76f84d6b939bd64788a09f4b353a80c87d2a1e46d49bc",
+            "sha256": "40deea6a26e388ee37d6df86997c56018933af07f4171cde782dbadeb9b8fab6",
             "type": "module"
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "88b8fccd2c9b3dee8ef5fd3521ce6c640f3db03fe2a07fe5154c1718af7a427b",
+            "sha256": "108271940f9d9a84cc22b29e16e5cf0608d48b9e6ad18eddc7ea6ff0bf227d5b",
             "type": "module"
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "6da23217c803fbe70095b2d490cacea54cfdc7cd5a3d0a3e1122f8b0479dd58b",
+            "sha256": "fe47d7488e1222fc97b747e49b82b4afd6436bc13bc9756cc52c23015f0f3e94",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "36e5d126cccbc445559b3efb0219658648ee88df948b66e3a47f23ad3b1e4e4c",
+            "sha256": "6666593c53cfae560f010f70e78be0c92683fd6dbb6d4996a58b53168a461f9d",
             "type": "module"
         },
         {
             "path": "data/core.sounds.zip",
-            "sha256": "18686e382d97ee536182436ea92b871eeac7e6e8878d6a4ba837ba57019633ad",
+            "sha256": "ff3ed4a4ce7a37beb3eca9dfbf15ef6c943531506ea456ba7a7dfee64110cd72",
             "type": "module"
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "49bbb5ae0c8965f4f0248a6e73b66cbe997b72dc934714da70b7556196bd58b9",
+            "sha256": "3f850fc1ada4baa992b098fbf799ca8cf9f8e33430673a99f923bde28ae3ab6c",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "73f5627adbf1afd4fdb2fae8ab5bc879dd025189dd5cf388b4cffa3e386e9623",
+            "sha256": "dcc515f526b6c06fb5b1c094f77ad89415275e7638d56ab8e43f51363985387e",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "a89464027986966b1d31188d10aa49fcec7e52faf4f8614a7f4a69378dc962b2",
+            "sha256": "e9c4ca4d8cc7a8d1124555db8b0c41956edba12568da95087bceec7254e2f75b",
             "type": "bin"
         },
         {
