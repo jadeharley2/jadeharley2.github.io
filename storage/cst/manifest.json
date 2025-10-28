@@ -1,24 +1,24 @@
 {
-    "version":"0.1.200",
+    "version":"0.1.206",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "06ac628d6a95b718706e15ffb98e87b1ffcf9ac33361f104afec75e5500e1851",
+            "sha256": "7fcabd39eca81b95306754b05d2ac68ab8e9448240e02821ad26229df235e8c0",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "40deea6a26e388ee37d6df86997c56018933af07f4171cde782dbadeb9b8fab6",
+            "sha256": "4747cf373317ffdc0667947633d32122a6fd44fee1225f18887cf548fc70e295",
             "type": "module"
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "108271940f9d9a84cc22b29e16e5cf0608d48b9e6ad18eddc7ea6ff0bf227d5b",
+            "sha256": "e122d2a02a298c26e20458d6c8f2f5ae38fc2f0c9d1a3991428c823b272058e4",
             "type": "module"
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "fe47d7488e1222fc97b747e49b82b4afd6436bc13bc9756cc52c23015f0f3e94",
+            "sha256": "70690659a09f3773f0a21a18d981aa76d11db6acce389317f97dee24b0734d85",
             "type": "module"
         },
         {
@@ -33,17 +33,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "5efb4b7d14cf1fe27523ca83a4d803695d3f0ab5471ddfac12046acd2d7bcf1a",
+            "sha256": "dc93efdce7775679212c64b4f10fb26286f8198f26823fb90e7f0dddd8f2e37d",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "c4ffac3bfdc8ed8400aa7ada0f7a5e21415b46ed5b17eba8330aea34c92ad15b",
+            "sha256": "816bf6d7605e998cd1c67e779741c310f912ca1e893a4d3ab1655248873ea421",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "9f4047f3631626a9b22e4d0dfef5f6d010842f747a34c179a141d782699bbff0",
+            "sha256": "de67a0ad8994c51619a97fbc5b28a1cd906ea35ab0894fa178837f34ca1083b2",
             "type": "bin"
         },
         {
