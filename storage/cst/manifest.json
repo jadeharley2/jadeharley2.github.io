@@ -1,14 +1,14 @@
 {
-    "version":"0.1.236",
+    "version":"0.1.241",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "f3556cc05c3ab75f0fa8a6e1c6c2ac999b19465193158b65f1749fc327c82343",
+            "sha256": "76fe5ff6382735415648e6feab0e211b4690dd548d80b2389b8f909e54b3ccec",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "e3a3ad74a191b268e47e47e09a703edba2752e67c8dff4092aeab3386ef69d9a",
+            "sha256": "c044f832b207cf141e74275728e17cf06f57b886a8dfecdddf32c4a28a03aabd",
             "type": "module"
         },
         {
@@ -18,12 +18,12 @@
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "2d22f199e8276cb6c33a0b5851f5941425d8b0f57e430001c9f19b5e92d2c1f7",
+            "sha256": "1709214d61dacbaff0cfa8072d052107a109f2c1e588aa77cbea9302bf8c6cfb",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "bed3a865612701a644297309657178f44fc7e14530809cba952a541446682882",
+            "sha256": "fbefbb3ec48cf25b0624a9470dfb0e7761d40d74f120039388d7fbfe82bc0294",
             "type": "module"
         },
         {
@@ -33,17 +33,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "c8bd83bf14b1e688a74b99e579db4fee4445f8891ca89d78fae68c69d7335b38",
+            "sha256": "c4e2f6bbdf8751d1e1fef175cdf9ca2fb9eb39cc7a1540a3acb99a122accfaad",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "bc1a2ae9699a6a7e08ae8b9b3ffa8017b8ab4e079710b7875a10569a0417327a",
+            "sha256": "691f51ca136f25232649beb448fb966720ffa598c56c600608ae9593c84bee30",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "06aed2425f0c84ae8507b27409b44506dd5aa93b23e49ad7b670c5c77f37e0c2",
+            "sha256": "52bb7cbf04aac5eea447efbaba2a0a992cdcb07c5663cedc5fdc12138c7026ef",
             "type": "bin"
         },
         {
