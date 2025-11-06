@@ -1,5 +1,5 @@
 {
-    "version":"0.1.241",
+    "version":"0.1.242",
     "files": [
         {
             "path": "data/core.data.zip",
@@ -18,7 +18,7 @@
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "1709214d61dacbaff0cfa8072d052107a109f2c1e588aa77cbea9302bf8c6cfb",
+            "sha256": "118289056911227c9be8f70439f84ce9f8a545c06685784c3f74a8da9bf9cfde",
             "type": "module"
         },
         {
