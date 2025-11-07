@@ -1,14 +1,14 @@
 {
-    "version":"0.1.243",
+    "version":"0.1.248",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "822412d52ce6f4333849509e120daf68fcf5eef7af68eca5b4dc8609441a9e13",
+            "sha256": "f99da28a2260b4e851b3f377cde7ceec5f775bb251ace49f1f5bf344975396bf",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "c044f832b207cf141e74275728e17cf06f57b886a8dfecdddf32c4a28a03aabd",
+            "sha256": "130d6494b1b97ef74f7285b10bff23b98f5a74d4c4f42d28654c333f93c56e3f",
             "type": "module"
         },
         {
@@ -18,12 +18,12 @@
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "118289056911227c9be8f70439f84ce9f8a545c06685784c3f74a8da9bf9cfde",
+            "sha256": "9e8f6ef88858d610540f3e41f5a7d0f6968103584c8013637a269c1d9d1d3715",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "fbefbb3ec48cf25b0624a9470dfb0e7761d40d74f120039388d7fbfe82bc0294",
+            "sha256": "b40d5630545b15d1e57b1d0445e249d344084bd3083aff576f3bdc7a5eb3159f",
             "type": "module"
         },
         {
@@ -33,17 +33,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "c4e2f6bbdf8751d1e1fef175cdf9ca2fb9eb39cc7a1540a3acb99a122accfaad",
+            "sha256": "9e060104a21e6c06d846ed13998891488db94158921dfa57b0fa27f2cb5f5e77",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "691f51ca136f25232649beb448fb966720ffa598c56c600608ae9593c84bee30",
+            "sha256": "a58fc64931af14595c15c245533565bbfa0ef904ae4ee20c0608358489d11e9f",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "52bb7cbf04aac5eea447efbaba2a0a992cdcb07c5663cedc5fdc12138c7026ef",
+            "sha256": "4c9fa8c20051fd5b8a8887b435309896ab890da59997493fbce59b4bbce0a7f2",
             "type": "bin"
         },
         {
