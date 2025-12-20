@@ -37,17 +37,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "4bb10becc323d163808a6dccec9fea129d7bc90012dabb335145a54c477ae2e2",
+            "sha256": "4d3dc372d9f7ca7a7cd090023bd59ac113a3b5025d47a00cdaaf6d5f1a50ea7e",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "cd9a9a28b26ac04ffdf84c17d9b7ae5c446d97fb3b418c6ef55114013fa12fde",
+            "sha256": "a85864f2394482d2f36d3b406bb5b7d0789acf2ac0f2d6c6e6c898d1583fa80b",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "2c4da9b0adb1f4da369b0e3ab085a91609ee7d8acb229f16e8d25409d7fd72b7",
+            "sha256": "ba3949f8758b13a7ea8706a276829ab5d9da7d81c106a693c4f0414ca5f56ca3",
             "type": "bin"
         },
         {
