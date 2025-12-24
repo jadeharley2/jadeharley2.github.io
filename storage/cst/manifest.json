@@ -1,9 +1,9 @@
 {
-    "version":"0.1.311",
+    "version":"0.1.314",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "e37dad0230d2df54da9e18cafbca2237d4382e840cc632a7a5c1f0216c2016e1",
+            "sha256": "88baec8b32cafe186be0f2d11b23df931d2d59497ec8d4e39a9507998b91ee4f",
             "type": "module"
         },
         {
@@ -18,7 +18,7 @@
         },
         {
             "path": "data/core.models.block.zip",
-            "sha256": "782a011c2d75d1ae7afa558cfceed843e1fc6129402a376683d3f34d79392520",
+            "sha256": "75415c349ea1c1b394cf04184f5f4cc61664b792441ea8e72d926318ad9196c1",
             "type": "module"
         },
         {
@@ -38,17 +38,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "747d078f32e5bf10f7e21927230deed9c7ff4332c89d919933d717622e99aa1f",
+            "sha256": "6ebe1ad31d58b504064cd0a41107b390319c6170233f29277b48c23ac9e56a63",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "bd373863ba061521336bba0598e0a53ea9b825031331b4aaea580d30810d83a0",
+            "sha256": "10dc255f68e73e5a9a0690314f40b3fdfbc62bfb0f8dc752eaad9ac1e9f142e2",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "a0b0f89127d3ca76ecd74ae7b355853ced67d1041bff0e5b36466fcceeab28f2",
+            "sha256": "3eee1d4fa68e16c17f1a562de8220d5bee92b5533d86a2b32c24e561f897df7c",
             "type": "bin"
         },
         {
