@@ -1,9 +1,9 @@
 {
-    "version":"0.1.317",
+    "version":"0.1.340",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "88baec8b32cafe186be0f2d11b23df931d2d59497ec8d4e39a9507998b91ee4f",
+            "sha256": "3eb557e5a6e23d26c34e6de49ac14c8c8dd5d4c58c7f94afb5b1937e3485fb0c",
             "type": "module"
         },
         {
@@ -13,12 +13,12 @@
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "3e78e2c606cbd194610942b68e40627fe582b2427388052f826c46ec291e47c9",
+            "sha256": "73e5f604e68660801ee4b43cbe99829532e9d4eeb2da3031ebfbeca6813be528",
             "type": "module"
         },
         {
             "path": "data/core.models.block.zip",
-            "sha256": "75415c349ea1c1b394cf04184f5f4cc61664b792441ea8e72d926318ad9196c1",
+            "sha256": "d3341367f007500e82cc0094812cc3b891c4352025f4a1a6367085020f1f0d6b",
             "type": "module"
         },
         {
@@ -28,7 +28,7 @@
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "60acc4d3503b9f301454e8d27018547e4181cb6b50ce5f64703edf4631ce1de9",
+            "sha256": "7dea666da0ddaaa72e8f35aec6acf91c8a66a63c6363b786be159e218a48b260",
             "type": "module"
         },
         {
@@ -38,17 +38,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "478722a36a64632c8795241668f92fac881f6486db1c79b38772e0595278839a",
+            "sha256": "aff5cd08443dadcd4c0f93c59604801f91eb218b815839eac27627b0f5c86fc1",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "9359924fb82b199c883b895016abe1820b718d712261062ce1c15d0faf9ebc13",
+            "sha256": "66672d5c4fa5e9963c49d54e717deddd83cb9d9bf27a3c8287c68bf483bbecbf",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "022893191f02aef67a24ca77c143253dfd43b9594f96cb9f76dd382492abbb12",
+            "sha256": "611b0c5836f162752213b6962ba098ca23036c591afb536afca9bb88b758a44d",
             "type": "bin"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "16243846daf68d64bd66938ad61f81b53e3cf5730072909a98b84b907399b919",
+            "sha256": "e50836c65bf6454da19ed2559367b32144d2a35af389952dbf5e255ff54d1059",
             "type": "bin"
         }
     ]
