@@ -1,9 +1,9 @@
 {
-    "version":"0.1.361",
+    "version":"0.1.365",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "30af9432e8532f1e5669e495952f359a618d0a60f87b25e0ce50492ab8b49d87",
+            "sha256": "cb5f3224cb45a639244503fc91733d93156ac39e6fb0b3e7c7fb308834866d49",
             "type": "module"
         },
         {
@@ -23,12 +23,12 @@
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "49c035a71e29d5c7aca8347aabe0db273879d3cb164cc2e6533e00d90fad2007",
+            "sha256": "3f1ed4d9271da2fe8a23cfd72737f963ac4b06dd41a5c7abcf6dd8d7083405d3",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "0182e44e85f6b872d06f42e8d67a172161b2711e8c016b05cda95c4a7b552899",
+            "sha256": "60571a7c58983696f79cf9efbe3640e82062b717cfd936cb36c8d78b6644d0fa",
             "type": "module"
         },
         {
@@ -38,17 +38,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "2f64db62b559bc1775b5019a9f4eb64b0933628eb0b354db161f510f5bf0d991",
+            "sha256": "db387c53f649036b13f6ddc54e4064fc315317ed289d663b7306e212e84f479e",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "da9cc7d816b5626f444fe8a0792ad51ae0b3b560fc6a6d8ab4aa841d41dc116b",
+            "sha256": "1160e4b0ac24133a8834d0d8b3ff7540cd0c403d59d295a2c862d194814c1a54",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "22d702551588e56fc2fd602d11d8c8ef286ea8691c6e09ce385c42fccc771b0c",
+            "sha256": "f3ae6d955fe1292cc0be7c06312633a89a7cc13bc7431aa4a2a4d3dfa20afc37",
             "type": "bin"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "f1ce0d0037483d96283db9e7eb8d173f8ac69d2e2ca2af7dce0a7c47143d303d",
+            "sha256": "5328eff063949d5607f1518119da8b91ad5bd06258e42fea559bfc937e6de5d3",
             "type": "bin"
         }
     ]
