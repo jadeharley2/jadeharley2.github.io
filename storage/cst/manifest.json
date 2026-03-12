@@ -1,19 +1,19 @@
 {
-    "version":"0.1.377",
+    "version":"0.1.384",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "f982b418d5c46240d30c35f4597bacf1972d0e90b672a8147bcba641b9861932",
+            "sha256": "3a4fb215bc9ef5b14ef1518f315735f19460784f594344d3a23b0a590a0ad67e",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "97800f6c2dd7befd2d3351905c7f697428d9f0e5828b52f69c9a9484893c4420",
+            "sha256": "0043017f35e1a8fd6d03489f1a96b95480fb4ea46f61d7f58f68173780e568b0",
             "type": "module"
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "0a6629d7a87d278c0631ed897d73f3d8b20a4e92e89e5220add160f8256baf31",
+            "sha256": "1a5e4af23aa421e786455c7b5d9477ef7a06967bf9d3cf9c66a74f21901205aa",
             "type": "module"
         },
         {
@@ -23,32 +23,32 @@
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "82d0540ec2a487a7b9ce0b26a0854f955030d79f0d43e6ef11d2e1bb8fd6d154",
+            "sha256": "99b86182baa231846c6d5b6d490d6a8cb1fd531aef6524841fdd5e06e06429bf",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "5636f0140930b761eb3b0ba75c968678b01aff221b20869848a69835017908ae",
+            "sha256": "16815267d4edc4d4a8189d260a86d9926301a5ece9d0e758f469e0984526255d",
             "type": "module"
         },
         {
             "path": "data/core.sounds.zip",
-            "sha256": "4d4c0f9c499046b5242544f2ff5b5eb3f39a96915eb83af4f4e2296bcef2df22",
+            "sha256": "1d311b00d8b2ce644215b27e4ca9c23d0bc84bb092c1652b2590074921fd8751",
             "type": "module"
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "d60b4d3ff75aaf6edbdacaef0afe825799776d25775098f70fc0cf017362e95a",
+            "sha256": "d561f1154e437ecb2ce5d84960aaf47ff69cd16fb629d1a18892d53fcd8ce36a",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "379b3744e632ee3a5783e7494ac6797ec647211dd546a9f028777bd94d62bcd5",
+            "sha256": "d85c7bbaebee45e6d0395885a5ba4f4743c5d2b7c33a889523653de7dc30721e",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "713a48df3f6da3e8ae47db6c75e5e452141ab06a99c6b8f325866754fdd1fef8",
+            "sha256": "639ffadc9cf4e1e8e8f0236e28f270d7c4d936c7033863651ba9c80b63305907",
             "type": "bin"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "2b9c62fe7a594030a957b27acd3136d1953f67e6f53862d02d2e4f28e98113be",
+            "sha256": "f2fcac05faad26c0387a5b37a40931c4cdffc9ec4d96426816c8364c9e588a1b",
             "type": "bin"
         }
     ]
