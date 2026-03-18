@@ -1,19 +1,19 @@
 {
-    "version":"0.1.384",
+    "version":"0.1.390",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "3a4fb215bc9ef5b14ef1518f315735f19460784f594344d3a23b0a590a0ad67e",
+            "sha256": "8b8646e0452a32b36f11d278ee3d5b33f90bf34a65489e3ef3f9ab151bda3a29",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "0043017f35e1a8fd6d03489f1a96b95480fb4ea46f61d7f58f68173780e568b0",
+            "sha256": "ed8c356a59120c92c06c9409379e0438f999b55c892c52f3b130d8b2313e0a92",
             "type": "module"
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "1a5e4af23aa421e786455c7b5d9477ef7a06967bf9d3cf9c66a74f21901205aa",
+            "sha256": "62e261feeb25e149cc53603cf8f555efdebe412668e5332862ad594835964c58",
             "type": "module"
         },
         {
@@ -23,17 +23,17 @@
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "99b86182baa231846c6d5b6d490d6a8cb1fd531aef6524841fdd5e06e06429bf",
+            "sha256": "2404d19c788a7704b2843f5d05a5e483f7d7eeec6d4de58cc7134f53647cf71b",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "16815267d4edc4d4a8189d260a86d9926301a5ece9d0e758f469e0984526255d",
+            "sha256": "09b63fc51a9dbc1ec48cfe6d07667420875cf31cf491e9854cabb680a766f422",
             "type": "module"
         },
         {
             "path": "data/core.sounds.zip",
-            "sha256": "1d311b00d8b2ce644215b27e4ca9c23d0bc84bb092c1652b2590074921fd8751",
+            "sha256": "a6eeaa9647c78213165fe41a98f790c872025ad312696085136269323ce62bd6",
             "type": "module"
         },
         {
