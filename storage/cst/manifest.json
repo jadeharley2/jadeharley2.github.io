@@ -1,54 +1,54 @@
 {
-    "version":"0.1.404",
+    "version":"0.1.412",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "6950a547e148eeb33155d7aa9d2a958827fca7de5ac7198718bdade0665e0f95",
+            "sha256": "c7e3e2e737ec9df208044b87f25f006ed056f45027e9aff58a7f215dfc182d80",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "a35051430956874e00596cb25dd892b054ac3b268f7a60d4ca757418a8b16f02",
+            "sha256": "2b1e6baee1a7d3a2a87220c61425f356f9fbb01452c94703b555b9b0311711c2",
             "type": "module"
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "03d40fb9d43ad7c15cc19fd1bb91e52def599445ef73f23c00410598dec67c54",
+            "sha256": "fb15f4ef587fb0b72b0d64ec2901e98fb69ebe5affdac5f30df795261297f2de",
             "type": "module"
         },
         {
             "path": "data/core.models.block.zip",
-            "sha256": "d68b13c8a31a4476378a0c95a0369680540d8e053152add7c2cf00ef2756e2e8",
+            "sha256": "2a8c0a75d95c803dbf9fd125bdb402f793c02380de5600c27cebfec157cf92d3",
             "type": "module"
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "ce860410f7cdc015a719fa1789deee3d2da0e307f4f4097bb0c5702a3502ac38",
+            "sha256": "42c1e38d305a2e90cf7495fa61a65305d07ce3592be4213a55dc98f95d98a75d",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "bc62937b90aa80cdfd80b59ed9fd64523521184f3dd7c645645534e4ee848856",
+            "sha256": "abf44d8cd6207f06bb106d1591be4dea1c1601673ace7322cf385655cfefe810",
             "type": "module"
         },
         {
             "path": "data/core.sounds.zip",
-            "sha256": "16ad741f89094474ae530ea73fb5e6293df958c6028102c671376a8117fbdec2",
+            "sha256": "4ed49d21a7e594eb35d249d7210efa2ef71c61eeb715f74a2aa4437891fc1a58",
             "type": "module"
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "2b60465f3955164eb125b3e8c25467745b953ada2bf6869c07416c4bb9fbf429",
+            "sha256": "d668bc80ef099fd3f1dcdfbec6a9b7fcaef960879cd11a453b0a1f103ec5eb57",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "0d660a8c599733629841b47e7af6b2cb8465a45fc7ce8340a0da30d41450de09",
+            "sha256": "782588d0e6382d99211860437b6d3d3e6953a0dcf21c343763da1217045ef533",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "2c7804d131b2ec26c17e0ffec46e5f0777cfde61b0a5e56b278fd1f65077e44d",
+            "sha256": "3a393705759c77789388d9b51e78b6daa53ba0db5ffc8b785913e6fd6c91db8a",
             "type": "bin"
         },
         {
@@ -68,7 +68,7 @@
         },
         {
             "path": "bin/libluagdextension.windows.template_debug.x86_64.dll",
-            "sha256": "10f4c1bf10571134163b2ce5c322e8d0dfb61614aeced6c7bc2a3dd5746ede1c",
+            "sha256": "bd657bf1807b79dbda5f1737ed37dee6aa09b57f8918b69de240811c527f859f",
             "type": "bin"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "f2fcac05faad26c0387a5b37a40931c4cdffc9ec4d96426816c8364c9e588a1b",
+            "sha256": "6117d4efcd8071629270fbfe6139075a1918f8d860e0bda58070947528bf084a",
             "type": "bin"
         }
     ]
