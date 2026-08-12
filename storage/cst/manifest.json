@@ -1,5 +1,5 @@
 {
-    "version":"0.1.414",
+    "version":"0.1.415",
     "files": [
         {
             "path": "data/core.data.zip",
@@ -38,17 +38,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "8fdf62656dde29c913c997a91a55a9652f53c4559b81a39455ffec835ee10676",
+            "sha256": "8c2198abedd72b0fa0fb57ef876b13fb20119598bca01a57f39f8403bf533b1b",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "a967e6bfc1b36401c734cdcdf6be27068f0f92afbb80d22b545c356cf9c19f6d",
+            "sha256": "03a01835e7c9f1ff0f9fb9a8028d390d173bb51907e3001b343b6e59ac771a0b",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "cf3eb5fa919d2ec51582af3003fea2905389f5faa6e14235e8bddf2d2a1457b2",
+            "sha256": "b70963d1fcb18aac297099ca1859a6918869512bda98bc623df1cdcb052c6cdb",
             "type": "bin"
         },
         {
