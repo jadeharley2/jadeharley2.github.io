@@ -1,9 +1,9 @@
 {
-    "version":"0.2.31",
+    "version":"0.2.32",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "5cb15c0092018ee31c80832c019268e023a9fd0ad8e3b282878df5b02ed444ac",
+            "sha256": "5b6b3a2e022feebbee2a336663b2a2a23369ffdbdc3bc62d6bb92be6ea3c08fa",
             "type": "module"
         },
         {
@@ -18,7 +18,7 @@
         },
         {
             "path": "data/core.models.block.zip",
-            "sha256": "af95e864455c3fd295bbbaba56524164629db40c260ca81ae79e26fc53d1b944",
+            "sha256": "a9c37b5870a4e324a9a879198e547586562e10c468797b97a5daf30236969706",
             "type": "module"
         },
         {
@@ -28,7 +28,7 @@
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "87fd700aba42e82b298c0aa3b008dd0f18f3efdf55142f55a55de1ccba1846a9",
+            "sha256": "558d4189ad8ac726e3a1a0153cc924657aa476b5f4f2c1d4fb06d5863531d7fa",
             "type": "module"
         },
         {
@@ -38,17 +38,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "5d5a54012de9f6fad142200c258bf3835bb5e8713e1a312dc4b9eca517b86743",
+            "sha256": "5b8a65fda015bbc3219f830a6128f16f30d5f5ba17c66bd6246da1f129bfdabf",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "a43528ee0f7009b8999b8d718010caa3a1b6a06c7a219b3561e56539b8c0e028",
+            "sha256": "0479a4931fe6d8ab4401659cc52d5fdbdd6559fc5758fda50308384a37bfb6fb",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "6f7ea79038e0425e09d508c11f36c3afb533af910ab268eb3597a9cb9480dc1c",
+            "sha256": "a7982a6be848d54c95b9e3e10966b78debbb415514c4370dde0a923faada3d95",
             "type": "bin"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "3987ee43817bab6c0b76f4cae21c0fa84fa38a640a130197643b999b932393c0",
+            "sha256": "7fe63c3768a40d01be1b3c4ea6a7d83d67d4e1b1c2a83c5371c235ffe4eae11e",
             "type": "bin"
         }
     ]
