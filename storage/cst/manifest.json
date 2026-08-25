@@ -1,9 +1,9 @@
 {
-    "version":"0.2.34",
+    "version":"0.2.36",
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "89e704662d2d0860cf0aaca1a4d96f81911e19bd6be539cb23bfc13212f77ee7",
+            "sha256": "d8f6e8e1ba68c202146281f0146668b4ad867016747236caa5d1c01ecdf1c2ed",
             "type": "module"
         },
         {
@@ -13,7 +13,7 @@
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "3c552fbac420d12c0de5839dae7fdf8c9d733523952fceb1d04616b8355ebc9f",
+            "sha256": "a779805a6d00a99bc5257e0be69ee8c14874a3be63892dff2ac5edb4deff098e",
             "type": "module"
         },
         {
@@ -23,12 +23,12 @@
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "5c91c9cffed93eb334e8e39267bc7d7dab1bf9b625b3c3e2aa562d91b74c2945",
+            "sha256": "8d12bf235b0b8e0717c0dff75087bec717699accfcd408505eb9d9a7cd2eed19",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "535e92003a39bf8d8f01caba790f90ce086549e31114f49eadbe21cbdba80fc4",
+            "sha256": "c2ff7787770e63c24d9c4801094e5aaac13faa34ccb685ce0697ad6878f62f8a",
             "type": "module"
         },
         {
@@ -38,17 +38,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "5a1a3cdffeb5f541dcd4878ffc1aeea9c499c6b95f0881b52f0b56d8440fbdd0",
+            "sha256": "77ad468a118a668a09c5b1cc6e6f624b2806a90da2273877f2bcbca5b1c3ec78",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "cc9c09775a8d9d90c197202ccd087495878d9e42b4d4903932f3f956df998714",
+            "sha256": "698412a310098d93c544239bcb4b3726b6763230ea44185f08e550398047d65f",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "4703576721840302097bb41bce156b2116c2e12155c45de98e952d2459feb7f8",
+            "sha256": "be1bd12d64e5361765ed58d0e567011ba808873f140a100a2e0ca54087e8c462",
             "type": "bin"
         },
         {
