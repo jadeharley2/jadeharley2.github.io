@@ -1,5 +1,5 @@
 {
-    "version":"0.2.36",
+    "version":"0.2.38",
     "files": [
         {
             "path": "data/core.data.zip",
@@ -28,7 +28,7 @@
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "c2ff7787770e63c24d9c4801094e5aaac13faa34ccb685ce0697ad6878f62f8a",
+            "sha256": "383565b9e5698954dcd6733851ea3e8b82599d1e32e3ea260d28c49d03cb24ff",
             "type": "module"
         },
         {
@@ -38,22 +38,22 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "77ad468a118a668a09c5b1cc6e6f624b2806a90da2273877f2bcbca5b1c3ec78",
+            "sha256": "2d31e5b29fad846caf58ec9e61c88a10234d6b8e2d0e7862318c8c76541df80e",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "698412a310098d93c544239bcb4b3726b6763230ea44185f08e550398047d65f",
+            "sha256": "2adb5fa86e04b4dea47bfd206d261f79a510cd5c45664a7e97c6122a9e314125",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "be1bd12d64e5361765ed58d0e567011ba808873f140a100a2e0ca54087e8c462",
+            "sha256": "69e69e191e1f22efd89aa07205cc64aae243f12a8078de8e4ee6ac1ceb29d576",
             "type": "bin"
         },
         {
             "path": "bin/libdd3d.windows.editor.x86_64.dll",
-            "sha256": "3f59a3349bc838fb34ddb45f50828b232733bdc8e35f38cecf1e9a133c90dabf",
+            "sha256": "aacd20d93f0d186993d831ae10df5c2fad61bcefc498c21fadec47bc867b38e6",
             "type": "bin"
         },
         {
