@@ -37,17 +37,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "f0694ecc6335ca17311970d6565d78a7b8b650c7a6c7d83e156b50bbfac6183c",
+            "sha256": "5da08a82b9c5d134b2467fde6c162f9256eefa9e61280b4396fdadd24f6d7673",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "2aac5acb9e8c054500c8cbb72f7d46968de57d75573268551d7300a2027c15e4",
+            "sha256": "a788b5e713f951736cbc1f0cede79654d1d8441cb1e62b1d8baea383687c1082",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "60d362ff8f9f0bea7d3e7e17495496a2f5543f8aa1f16491ba1ccbb144706673",
+            "sha256": "17ace1dc3a41ae62c96a5133d0d1ac97daf8f84b638964bc888c31d1f70f2aea",
             "type": "bin"
         },
         {
@@ -86,5 +86,5 @@
             "type": "bin"
         }
     ],
-    "version": "0.2.45.0"
+    "version": "0.2.46.0"
 }
