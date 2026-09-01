@@ -2,52 +2,52 @@
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "561eeded93e0ce0216fac95b88a9b931adc9643c1bbfb275785246cc175673d7",
+            "sha256": "fade8fdb1f84b9018d971132e42c99d77304cffb2b8e654b22f62885f7f0d437",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "08662c8bfdf76c003ba736d75c5bc0c54586411e17c9bc794baefbff7487b9f3",
+            "sha256": "1d3f9c94818899946d9be499ce1ad74ef4f0399f9fc5458db577f7dc222fb125",
             "type": "module"
         },
         {
             "path": "data/core.misc.zip",
-            "sha256": "a779805a6d00a99bc5257e0be69ee8c14874a3be63892dff2ac5edb4deff098e",
+            "sha256": "0e633a8edd43cbfd0ac626c1d41876a11fb656c7f737a8b6dd7c77466703a11c",
             "type": "module"
         },
         {
             "path": "data/core.models.block.zip",
-            "sha256": "0c1cc5a9dcca22840eebd93138ef856ca3c720713a0869bb0c57329201952890",
+            "sha256": "56f73b301bcbe4f2677c25a8dbc838612a5b1abdfc7363cd9da0ac41ad980aff",
             "type": "module"
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "0f11fab3f0935f52e990acf9675f2d59e9fc88bcb1fa963a272050aff2beb96c",
+            "sha256": "6ae147b05d275b9f68a12d853e92f03161f74ef43242584caf8e4ae0de72299b",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "687b3f1ff016588e41f996bca65aa9c6b8abba7e50f54ce19acb5d1808627d51",
+            "sha256": "382887162a78635bdb3b4e08fb4865f2440ec522f868f6acd52f4bcfada6e17f",
             "type": "module"
         },
         {
             "path": "data/core.sounds.zip",
-            "sha256": "1a5366dacca2d686d954df847919cc4cbd71f02db6409dbee5b0fca410b9b2cb",
+            "sha256": "7178ec3b889c4b97e53b72348ad530ab16ff757d4774b73041a1cfbeb85040ae",
             "type": "module"
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "86478f9d376c4d667b95c554668d7b0a1faf322d51fa82c0bbc70db4e46997a5",
+            "sha256": "a4bf4df0e41816fe3cdf1ccbdf059142406bdddd8c28622cd94e08b950da4f57",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "6cc36f8fc1e8258a505a51e0221814802d9084995d881c31f57663b6026c2bac",
+            "sha256": "90f496ed0f7efbda95812fa1c21f819dc07021c49eb90ec9f0b4abed603c0159",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "08462a9cf90438bc2b6fbc3d92a5aa602d17197adf76f2c4e4b06836d3038285",
+            "sha256": "9dd6aaaa34634d124b686bd8c71131e37e48790dc7a0ba99df25a81262dd2ff3",
             "type": "bin"
         },
         {
@@ -86,5 +86,5 @@
             "type": "bin"
         }
     ],
-    "version": "0.2.47.0"
+    "version": "0.2.53.0"
 }
