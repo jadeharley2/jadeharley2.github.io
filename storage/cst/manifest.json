@@ -2,12 +2,12 @@
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "75ba9144bf6a7df6b387339a756568934a142fcc46202e1fb5b5b0eb45b25ffa",
+            "sha256": "03e7af21113743a20c72a2b4aea7ddd00019773bcbda2c7035ff06411ffa566a",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "a1a9ffa3f953b51b16a59081b43a89517e08f419df6cf56fe75ff94e20e30a8b",
+            "sha256": "10a5245953625dd9b8a7abd6645d8cb104b9ba5f9d8a78f9c7f40c293aeada63",
             "type": "module"
         },
         {
@@ -22,7 +22,7 @@
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "ccb942514d8bffe89e0c1b520193f020518fd09ebe06e198e314684ea68ab691",
+            "sha256": "66d32b0eccdc83297d6d93e2e70a300844cff754a80444b1c7ccb3407bdac88b",
             "type": "module"
         },
         {
@@ -37,17 +37,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "f3cca64c2084d1e275ace8975c75e2efc9d22a1a214c8413bc8538451107cb6d",
+            "sha256": "4abee3b1dff0ad2b76274f72007cc028de38d8d83c0dadf6ac887ba451527f06",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "520a3bfbf9f3c416889cfe34314e0ac3780bdc9f0e55dfab6c3fbb3df282bfbf",
+            "sha256": "e003f171b1dab768f855e0301856afb9f6bc6eccf3531f4e234804db7a51f65c",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "b06dde494a7fec95f34b8a2b8b43bce445b61948b80b61e75788e0eb7b08fdc4",
+            "sha256": "16f4d3e739c28b284dcfb97f1a9a38b35aad892de3458cba7ad0fb33e7300826",
             "type": "bin"
         },
         {
@@ -58,6 +58,11 @@
         {
             "path": "bin/libgodotsteam.windows.template_debug.x86_64.dll",
             "sha256": "04b9be4fea4dc4f40626c3de422ecc25167eb7a8af838e9a571dabf76e945c9b",
+            "type": "bin"
+        },
+        {
+            "path": "bin/liblimboai.windows.editor.x86_64.dll",
+            "sha256": "401d9751dc88ea0cce899cf42d4b8e2fc1a1c1caed56f958550459e199571aa8",
             "type": "bin"
         },
         {
@@ -86,5 +91,5 @@
             "type": "bin"
         }
     ],
-    "version": "0.2.55.0"
+    "version": "0.2.58.0"
 }
