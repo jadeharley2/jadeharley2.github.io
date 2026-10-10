@@ -2,12 +2,12 @@
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "03e7af21113743a20c72a2b4aea7ddd00019773bcbda2c7035ff06411ffa566a",
+            "sha256": "f9825fb891fd733ffe107df4cc41f76e9d0c542e5230574270c1ad3af9162e00",
             "type": "module"
         },
         {
             "path": "data/core.materials.zip",
-            "sha256": "10a5245953625dd9b8a7abd6645d8cb104b9ba5f9d8a78f9c7f40c293aeada63",
+            "sha256": "504584f591672fb9892d63e1961abcab0690c4b78f5439273171209564151d3c",
             "type": "module"
         },
         {
@@ -22,12 +22,12 @@
         },
         {
             "path": "data/core.models.zip",
-            "sha256": "66d32b0eccdc83297d6d93e2e70a300844cff754a80444b1c7ccb3407bdac88b",
+            "sha256": "e3048d78b328dec4e825e18f9c377f1272651105e47b261d20035e7ad13e8987",
             "type": "module"
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "43f2a4f8787bde2f52d6b771a70456cc767648fc3bc74839b5cb77cb0bcfe80e",
+            "sha256": "a4bafe12da3cc7204d3555ceae5db25adf22a1067b80ca3697f3f4d7fb9d2bde",
             "type": "module"
         },
         {
@@ -37,17 +37,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "4abee3b1dff0ad2b76274f72007cc028de38d8d83c0dadf6ac887ba451527f06",
+            "sha256": "fed92ba01534ec89e5f827b545dd026cd2421f691523461a76732e83d1ba8388",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "e003f171b1dab768f855e0301856afb9f6bc6eccf3531f4e234804db7a51f65c",
+            "sha256": "de7712731d49ff70d6e0e9378822166d7465522de18a29fddc43f9cc531f6b6a",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "16f4d3e739c28b284dcfb97f1a9a38b35aad892de3458cba7ad0fb33e7300826",
+            "sha256": "f2818c1a1acc3456a90b7a1a1d0c3425a47ee6660a527db976d0c6bc2a7eb1ff",
             "type": "bin"
         },
         {
@@ -91,5 +91,5 @@
             "type": "bin"
         }
     ],
-    "version": "0.2.58.0"
+    "version": "0.2.59.0"
 }
