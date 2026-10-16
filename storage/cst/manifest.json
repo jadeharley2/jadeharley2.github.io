@@ -2,7 +2,7 @@
     "files": [
         {
             "path": "data/core.data.zip",
-            "sha256": "9c488efe7291760c31b174ba5d976a7dbbba670e46414a9a0070add5d55f90ec",
+            "sha256": "b47c606ae95d829f502d9bccc1e57b908d781999e21079de8840b87e45d01d4a",
             "type": "module"
         },
         {
@@ -17,7 +17,7 @@
         },
         {
             "path": "data/core.models.block.zip",
-            "sha256": "117c4a37e6867300faaa83eb970a0f723949bdb6b7a2bf841b8b8bbbb91b545c",
+            "sha256": "ab8382e9b69b8222370776a4ab6be58dc32605c19ab8b007bfd755d48938879f",
             "type": "module"
         },
         {
@@ -27,7 +27,7 @@
         },
         {
             "path": "data/core.scenes.zip",
-            "sha256": "531e715d4e9fa2bf1b11cbca06bba4ea12b3fe4668419bd6db7966701b09b5e5",
+            "sha256": "eda73b9ffddfa909dd396dd0df71c5f7ddb5a09d664e5c217b820e84fc4fdf46",
             "type": "module"
         },
         {
@@ -37,17 +37,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "16d6573072f23456caf52d1710217bd5c359bfa068ab8f92d30134e5a008dbbe",
+            "sha256": "bb7e26023eb6f0ce64465c14067de526701aed9bac7d52d5a73d41a81092f673",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "33879d1cbb86ae0cc480768795d26ddb3c4333f9ff888bde3c9178d64498f3b2",
+            "sha256": "3a0ea54229eae5bc4ae2d61203053e8a5a94907cbcc754f3498460c9f578bfdb",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "1db6d7ff93a0e4d62c4b04dc53a7153beb18385808335e6ade26ebd2a30b8876",
+            "sha256": "8ccc37a89c36b8c128768610216454e6ac6319a79f6a951055cb1b7025c894b7",
             "type": "bin"
         },
         {
@@ -87,9 +87,9 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "dc1ece55f623d2c846227a05ee26d219f20febd73d4da5974ccbe9f1fd19b473",
+            "sha256": "4eabd131afc732cca25158324b8eee2bccccb89e1b5f40209c7be8aa111c38a6",
             "type": "bin"
         }
     ],
-    "version": "0.2.65.0"
+    "version": "0.2.68.0"
 }
