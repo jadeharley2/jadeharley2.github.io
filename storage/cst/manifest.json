@@ -37,17 +37,17 @@
         },
         {
             "path": "bin/CST.console.exe",
-            "sha256": "bb7e26023eb6f0ce64465c14067de526701aed9bac7d52d5a73d41a81092f673",
+            "sha256": "722e1feb69ec2cfc3448517e7b5fe9c2d542ab0e4347dc823acf9d7046538bb6",
             "type": "bin"
         },
         {
             "path": "bin/CST.exe",
-            "sha256": "3a0ea54229eae5bc4ae2d61203053e8a5a94907cbcc754f3498460c9f578bfdb",
+            "sha256": "fea5328696d3187eb7d317528582d331116d983410f742255557f23264f13165",
             "type": "bin"
         },
         {
             "path": "bin/CST.pck",
-            "sha256": "8ccc37a89c36b8c128768610216454e6ac6319a79f6a951055cb1b7025c894b7",
+            "sha256": "7e1bda7d3bfea93c56fea9fbd89090cdaac41ac3c276919bcc4b6ad498e6a3f3",
             "type": "bin"
         },
         {
@@ -87,9 +87,9 @@
         },
         {
             "path": "bin/voxellib.windows.template_debug.x86_64.dll",
-            "sha256": "4eabd131afc732cca25158324b8eee2bccccb89e1b5f40209c7be8aa111c38a6",
+            "sha256": "367fefeb061bdff2de0193f250fe1950236850bd42cd2f623fe9430553c4a7a3",
             "type": "bin"
         }
     ],
-    "version": "0.2.68.0"
+    "version": "0.2.74.0"
 }
